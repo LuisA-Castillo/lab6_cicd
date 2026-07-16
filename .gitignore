@@ -1,19 +1,6 @@
-# Node.js
 node_modules/
-npm-debug.log*
-
-# Variables de entorno
 .env
-.env.local
-
-# Pruebas
-coverage/
-
-# Vercel
-.vercel/
-
-# Sistema
+npm-debug.log*
 .DS_Store
-
-# Logs
 *.log
+coverage/
